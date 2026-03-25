@@ -53,7 +53,6 @@ export const updatepro=()=>{
     setid('');
     setname('');
     setmark1('');
-    setmark2('');
     setmark3('');
     setmark4('');
     setmark5('');
