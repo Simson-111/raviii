@@ -55,7 +55,6 @@ export const updatepro=()=>{
     setmark1('');
     setmark2('');
     setmark3('');
-    
     setmark4('');
     setmark5('');
     setAvg('');
